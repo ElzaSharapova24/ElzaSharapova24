@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Language and tools 	&#128188;</h3>
-<ul list-style="none">
+<ul>
   <li>
     JavaScript
   </li>
