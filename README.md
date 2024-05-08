@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Language and tools 	&#128188;</h3>
-<ul style="list-style: none; display: flex; flex-direction: row; column-gap: 20px">
+<ul list-style="none">
   <li>
     JavaScript
   </li>
