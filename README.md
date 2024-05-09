@@ -1,6 +1,5 @@
-<h1 align="center">Привет всем, меня зовут Эльза</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я Frontend - разработчик из России 	&#128105;&#8205;&#128187;</h3>
+<h1 align="center">Привет всем, меня зовут Эльза<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Я Frontend - разработчик из России 	&#128105;&#8205;&#128187;</h2>
 
 <h3>About me &#128129;&#8205;&#9792;&#65039;</h3>
 <ul>
@@ -55,3 +54,5 @@
     Git
   </li>
 </ul>
+<h3 align="center">My contacts</h3> 
+<a href="https://t.me/elzana24" style="color: rgb(108,184,248)">Вот мое резюме.</a>
