@@ -55,4 +55,4 @@
   </li>
 </ul>
 <h3 align="center">My contacts</h3> 
-<a href="https://t.me/elzana24" style="color: rgb(108,184,248)">Вот мое резюме.</a>
+<a href="https://t.me/elzana24" color="rgb(108,184,248)" align="center">>Вот мое резюме.</a>
