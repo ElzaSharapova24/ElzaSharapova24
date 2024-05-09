@@ -54,5 +54,6 @@
     Git
   </li>
 </ul>
-<h3 align="center">My contacts📱</h3> 
-<div align="center"><a href="https://t.me/elzana24">Telegram &#128242;</a></div>
+<h3 align="center">My contacts📱</h3>
+<div align="center"><a href="https://t.me/elzana24">&#128242; Telegram</a></div>
+<div align="center"><a href="https://t.me/elzana24">&#128231; Email</a></div>
