@@ -55,5 +55,5 @@
   </li>
 </ul>
 <h3 align="center">My contacts📱</h3>
-<div align="center" margin-bottom="20"><a href="https://t.me/elzana24">&#128242; Telegram</a></div>
+<p align="center"><a href="https://t.me/elzana24">&#128242; Telegram</a></p>
 <div align="center"><a href="mailto:elza.sh4rapova@yandex.ru">&#128231; elza.sh4rapova@yandex.ru</a></div>
