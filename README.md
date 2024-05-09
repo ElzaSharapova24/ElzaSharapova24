@@ -55,4 +55,4 @@
   </li>
 </ul>
 <h3 align="center">My contacts</h3> 
-<div display="flex" justify-content="center"><a href="https://t.me/elzana24">Telegram</a></div>
+<div align="center"><a href="https://t.me/elzana24">Telegram</a></div>
