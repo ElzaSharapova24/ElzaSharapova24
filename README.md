@@ -56,4 +56,4 @@
 </ul>
 <h3 align="center">My contacts📱</h3>
 <div align="center"><a href="https://t.me/elzana24">&#128242; Telegram</a></div>
-Можете связаться со мной по 📧 [example@example.com](mailto:example@example.com)
+<p>Можете связаться со мной по электронной почте: <a href="mailto:elza.sh4rapova@yandex.ru">&#128231; elza.sh4rapova@yandex.ru</a></p>
