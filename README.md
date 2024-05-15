@@ -57,6 +57,6 @@
 <h3 align="center">My contacts📱</h3>
 <div align="center"><a href="https://t.me/elzana24">&#128242; Telegram</a></div>
 <div align="center"><a href="mailto:elza.sh4rapova@yandex.ru">&#128231; elza.sh4rapova@yandex.ru</a></div>
-<div align="center"><a href="[mailto:elza.sh4rapova@yandex.ru](https://www.codewars.com/users/ElzaSharapova24
-)">&#128269; Ссылка на Сodewars</a></div>
-<div align="center"><a href="[https://t.me/elzana24](https://www.linkedin.com/in/%D1%8D%D0%BB%D1%8C%D0%B7%D0%B0-%D1%88%D0%B0%D1%80%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0-83987428a/)">&#128190; Linkedin</a></div>
+<div align="center"><a href="https://www.codewars.com/users/ElzaSharapova24
+">&#128269; Ссылка на Сodewars</a></div>
+<div align="center"><a href="https://www.linkedin.com/in/%D1%8D%D0%BB%D1%8C%D0%B7%D0%B0-%D1%88%D0%B0%D1%80%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0-83987428a/">&#128190; Linkedin</a></div>
