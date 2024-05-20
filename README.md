@@ -10,50 +10,50 @@
 </ul>
 
 <h3>Language and tools 	&#128188;</h3>
-<ul>
-  <li>
+<div>
+  <p>
     &#9989;JavaScript
   </li>
-   <li>
+   <p>
      &#9989;Node.js
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;TypeScript
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;React
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;React Router
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;Redux
-  </li>
-  <li>
-     RTK
-  </li>
-  <li>
+  </p>
+  <p>
+     &#9989;RTK
+  </p>
+  <p>
      &#9989;Vite
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;Webpack
-  </li>
-  <li>
+  </p>
+  <p>
      &#9989;HTML5
-  </li>
-  <li>
+  </p>
+  <p>
     &#9989;CSS3
-  </li>
-  <li>
+  </p>
+  <p>
     &#9989;Sass
-  </li>
-  <li>
+  </p>
+  <p>
     &#9989;Figma
-  </li>
-  <li>
+  </p>
+  <p>
     &#9989;Git
-  </li>
-</ul>
+  </p>
+</div>
 <h3 align="center">My contacts📱</h3>
 <div align="center"><a href="https://t.me/elzana24">&#128242; Telegram</a></div>
 <div align="center"><a href="mailto:elza.sh4rapova@yandex.ru">&#128231; elza.sh4rapova@yandex.ru</a></div>
