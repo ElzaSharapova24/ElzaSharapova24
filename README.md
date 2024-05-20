@@ -12,46 +12,46 @@
 <h3>Language and tools 	&#128188;</h3>
 <ul>
   <li>
-    JavaScript
+    &#9989;JavaScript
   </li>
    <li>
-     Node.js
+     &#9989;Node.js
   </li>
   <li>
-     TypeScript
+     &#9989;TypeScript
   </li>
   <li>
-     React
+     &#9989;React
   </li>
   <li>
-     React Router
+     &#9989;React Router
   </li>
   <li>
-     Redux
+     &#9989;Redux
   </li>
   <li>
      RTK
   </li>
   <li>
-     Vite
+     &#9989;Vite
   </li>
   <li>
-     Webpack
+     &#9989;Webpack
   </li>
   <li>
-     HTML5
+     &#9989;HTML5
   </li>
   <li>
-    CSS3
+    &#9989;CSS3
   </li>
   <li>
-    Sass
+    &#9989;Sass
   </li>
   <li>
-    Figma
+    &#9989;Figma
   </li>
   <li>
-    Git
+    &#9989;Git
   </li>
 </ul>
 <h3 align="center">My contacts📱</h3>
