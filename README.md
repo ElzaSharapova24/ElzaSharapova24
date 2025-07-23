@@ -6,7 +6,7 @@
   <li>&#128105;&#8205;&#127979;I love creating new things.</li>
   <li>&#127939;&#8205;&#9792;&#65039;I enjoy improving existing things and turning them into high-quality products.</li>
   <li>&#128218;I'm always working on developing my skills.</li>
-  <li>&#128187;Right now, I’m actively looking for a job.  <a href="https://github.com/ElzaSharapova24/ElzaSharapova24/raw/main/%D0%AD%D0%BB%D1%8C%D0%B7%D0%B0%20%D0%A8%D0%B0%D1%80%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf">Here is my resume.</a></li>
+  <li>&#128187;Right now, I’m actively looking for a job.  <a href="https://github.com/ElzaSharapova24/ElzaSharapova24/blob/main/Elza_Sharapova_CV.pdf">Here is my resume.</a></li>
 </ul>
 
 <h3>Language and tools 	&#128188;</h3>
