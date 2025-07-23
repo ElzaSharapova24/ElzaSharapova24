@@ -13,7 +13,7 @@
 <div>
   <p>
     &#9989;JavaScript
-  </li>
+  </p>
    <p>
      &#9989;Node.js
   </p>
@@ -31,6 +31,9 @@
   </p>
   <p>
      &#9989;RTK
+  </p>
+  <p>
+    &#9989;Docker
   </p>
   <p>
      &#9989;Vite
@@ -58,9 +61,6 @@
   </p>
   <p>
     &#9989;Git
-  </p>
-    <p>
-    &#9989;Docker
   </p>
 </div>
 <h3 align="center">My contacts📱</h3>
